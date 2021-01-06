@@ -10,6 +10,7 @@ h1{
 }
 .orange-color{
     color: #FF8367;
+    font-family: 'Bebas Neue', cursive;
     
 
 }
@@ -53,4 +54,31 @@ p{
     padding-bottom: 3%;
     color: #3C3C3C;
     word-spacing: 20px;
+}
+.third-width{
+    background-color: azure;
+    float: left;
+    width: 25%;
+    padding: 2%;
+
+
+}
+.third-width img{
+    width: 100%;
+}
+.own{
+    border: 0px, solid ; 
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#left{
+    padding-left: 10%;
+}
+h5{
+    color:#363958;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+#text-bg{
+    background-color: azure;
 }
