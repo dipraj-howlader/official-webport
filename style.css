@@ -1,6 +1,7 @@
 h1{
     font-family: 'Bebas Neue', cursive;
     font-size: 50px;
+    letter-spacing: 2px;
 }
 .blue-color{
     color: #363958;
@@ -23,7 +24,7 @@ body{
     margin-left: 8%;
 }
 .bg{
-    height: 1000px;
+    height: 800px;
     width: 90%;
     
 }
@@ -56,29 +57,87 @@ p{
     word-spacing: 20px;
 }
 .third-width{
-    background-color: azure;
+    border: ;
     float: left;
     width: 25%;
-    padding: 2%;
+    padding: 5%;
+    box-shadow: 10px 10px 20px gray ;
+    border-radius: 15% 20px;
+    height: 60%;
 
 
 }
 .third-width img{
     width: 100%;
 }
-.own{
-    border: 0px, solid ; 
+.own{ 
     padding-left: 30px;
     padding-right: 30px;
 }
 #left{
-    padding-left: 10%;
+    padding-left: 8%;
 }
-h5{
+h4{
     color:#363958;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
-#text-bg{
-    background-color: azure;
+#work-bg{
+    background-color: #E5E5E5;
+    height:500px;
+    padding:8%;
+    margin-top: 5%;
 }
+#text-bg{
+    padding-top: 50px;
+    letter-spacing: 2px;
+}
+#last-background-image{
+    background-image: url("images/last.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70% 100%;
+    margin-bottom: 120px;
+    height: 180px;
+    width: 1100px;
+}
+#work-inq{
+    margin-left: 250px;
+    margin-top: 30px;
+    padding-top: 50px;
+    color: white;
+
+}
+.chat{
+    margin-left: 65%;
+    margin-bottom: 40%;
+    padding-bottom: 10px;
+    padding-top: 10%;
+    border-radius: 10%;
+    box-shadow: 10px 10px 20px rgb(83, 38, 189) ;
+}
+#extra{
+    text-align: center;
+    padding: 12px 20px;
+}
+#last-sec{
+    background-color: teal;
+    color: wheat;
+}
+input[type=text]{
+    border: 2px solid rgb(187, 212, 73);
+    border-radius: 4px;
+    padding: 12px 20px;
+    color: white;
+    background-color: turquoise;
+}
+input[type=submit]
+{
+    background-color: slategray;
+    color: tan;
+}
+#last{
+    text-align: center;
+    font-size: 15px;
+}
+
