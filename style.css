@@ -1,0 +1,46 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+}
+.blue-color{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+}
+.orange-color{
+    color: #FF8367;
+    
+
+}
+body{
+    margin: 0
+}
+.half-width{
+    float: left;
+    width: 35%;
+    padding-top: 7%;
+    padding-left: 7%;
+}
+.half-width img{
+    width: 120%;
+}
+.contact{
+    text-decoration: none;
+    padding: 10px 25px;
+    color: white;
+    border-radius: 5%;
+    font-weight: 50px;
+    background-image: linear-gradient(to bottom, rgb(231, 63, 34) , Tomato);
+
+}
+#pad{
+    margin-left: 10%;
+}
+p{
+    color: #3E3E3E;
+    font-family: 'Roboto', sans-serif;
+    line-height: 24px;
+}
+#gap{
+    padding-right: 8%;
+}
